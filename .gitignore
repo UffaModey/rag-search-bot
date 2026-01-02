@@ -14,3 +14,4 @@ __pycache__/
 
 # FAISS indexes (if generated locally)
 *.faiss
+documents/
