@@ -69,8 +69,8 @@ The application is designed to simulate conversational interactions while ensuri
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/UffaModey/rag-search-bot.git
+cd rag-search-bot
 ```
 
 ### 2. Create and Activate a Virtual Environment
